@@ -28,7 +28,7 @@ body {
   border-radius: 5%;
 }
 .card-top {
-  background-image: url(/images/bg-pattern-card.svg);
+  background-image: url(bg-pattern-card.svg);
   height: 35%;
   border-radius: 15px 15px 0 0;
 }
